@@ -5,7 +5,7 @@ A JavaScript graph library for managing node relationships in hierarchical struc
 
 This library is a comprehensive solution for managing and visualizing node relationships in hierarchical data structures. It's particularly optimized for handling GCP permission data, allowing easy manipulation and querying of complex relationships.
 
-## Features`
+## Features
 
 - **Node Management**: Efficiently create and manage nodes with unique identifiers and types.
 - **Edge Linking**: Define relationships between nodes with roles, capturing complex hierarchical data.
